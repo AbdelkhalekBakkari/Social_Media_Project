@@ -1,0 +1,20 @@
+Django : backend framework written in Python
+         builds simple or complex web app
+
+React : JS lib to create reactive and powerful user interfaces
+
+Backend : hidden side of the project
+          composed of the business logic & data manipulation from the DB
+
+Front-end : represents the user interface provided to the user to interact with the whole app
+
+
+
+Client ---->Request----> Server
+Server ---->Response----> Client
+
+
+Back-end developer :
+                 - Server: Machine or an app (NGINX) that receives the requests
+                 - Application: An executed app on the server that receives the requests, validates these requests, and sends an appropriate Response
+                 - Database: Stores all the data 
